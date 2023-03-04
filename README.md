@@ -19,4 +19,4 @@ npm i
 npm run dev
 ```
 
-![demo](/demo.svg)
+![demo](/demo.gif)
